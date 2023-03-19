@@ -1,1 +1,1 @@
-read m e
+read me
