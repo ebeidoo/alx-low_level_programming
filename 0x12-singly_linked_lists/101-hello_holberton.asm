@@ -12,4 +12,4 @@ main:
 	call printf
 
 	mov eax, 0
-	ret
+	ret 
